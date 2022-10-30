@@ -35,7 +35,6 @@ technologies how:
     </ul>
 🌱 I’m currently learning English whit objective to speak it more fluently
 
-<h2>🤞 I would like to work remotely for a company and work with people from other countries</h2>
 
 <h3>Contact<h3>
   📧 Email: lukascornejo27@gmail.com
